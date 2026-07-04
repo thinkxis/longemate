@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://frycold.com/v1/secure/interface.xsl?site=frycold.com"?>
+<urlset 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url><loc>https://lodgemate.frycold.com/mumbai</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/delhi</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/bengaluru</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/hyderabad</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/ahmedabad</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/chennai</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/kolkata</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/surat</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/pune</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/jaipur</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/lucknow</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/kanpur</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/nagpur</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/indore</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/thane</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/bhopal</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/visakhapatnam</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/pimpri-chinchwad</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/patna</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/vadodara</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/ghaziabad</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/ludhiana</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/agra</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/nashik</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/faridabad</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/meerut</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/rajkot</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/kalyan-dombivli</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/vasai-virar</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/varanasi</loc><priority>0.7</priority></url>
+ 
+</urlset>

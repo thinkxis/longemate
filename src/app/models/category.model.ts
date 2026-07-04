@@ -3,81 +3,105 @@ export interface Category {
   name: string;
   icon: string;          // Tabler icon name e.g. 'sparkles'
   description: string;
-  responseTime: string;  // e.g. '~2 hr response'
+  responseTime: string;  // e.g. '~2 hr'
   startingPrice: string; // e.g. 'From ₹499'
 }
  
 export const CATEGORIES: Category[] = [
   {
-    id: 'cleaning',
-    name: 'Cleaning',
-    icon: 'cleaning_services',
-    description: 'Home, office, or deep clean',
-    responseTime: '~2 hr response',
+    id: 'hotel',
+    name: 'Hotels',
+    icon: 'hotel',
+    description: 'Hotels of every budget',
+    responseTime: 'Instant',
     startingPrice: 'From ₹499'
   },
   {
-    id: 'electrician',
-    name: 'Electrician',
-    icon: 'electrical_services',
-    description: 'Wiring, fittings, repairs',
-    responseTime: '~3 hr response',
+    id: 'lodge',
+    name: 'Lodges',
+    icon: 'bed',
+    description: 'Affordable overnight stays',
+    responseTime: 'Instant',
     startingPrice: 'From ₹299'
   },
   {
-    id: 'plumber',
-    name: 'Plumber',
-    icon: 'plumbing',
-    description: 'Leaks, pipes, fixtures',
-    responseTime: '~2 hr response',
-    startingPrice: 'From ₹349'
-  },
-  {
-    id: 'carpenter',
-    name: 'Carpenter',
-    icon: 'carpenter',
-    description: 'Furniture, doors, custom work',
-    responseTime: '~4 hr response',
+    id: 'guest-house',
+    name: 'Guest Houses',
+    icon: 'home',
+    description: 'Comfortable private stays',
+    responseTime: 'Instant',
     startingPrice: 'From ₹399'
   },
   {
-    id: 'massage',
-    name: 'Massage',
-    icon: 'spa',
-    description: 'Relaxation or therapeutic',
-    responseTime: '~3 hr response',
-    startingPrice: 'From ₹699'
+    id: 'hostel',
+    name: 'Hostels',
+    icon: 'groups',
+    description: 'Beds & shared accommodation',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹199'
   },
   {
-    id: 'salon',
-    name: 'Salon',
-    icon: 'content_cut',
-    description: 'Hair, beauty, grooming',
-    responseTime: '~2 hr response',
-    startingPrice: 'From ₹299'
+    id: 'resort',
+    name: 'Resorts',
+    icon: 'beach_access',
+    description: 'Vacation & leisure stays',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹1,499'
   },
   {
-    id: 'painting',
-    name: 'Painting',
-    icon: 'format_paint',
-    description: 'Interior, exterior, textures',
-    responseTime: '~5 hr response',
+    id: 'apartment',
+    name: 'Apartments',
+    icon: 'apartment',
+    description: 'Entire apartments & studios',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹999'
+  },
+  {
+    id: 'villa',
+    name: 'Villas',
+    icon: 'villa',
+    description: 'Luxury private villas',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹2,999'
+  },
+  {
+    id: 'homestay',
+    name: 'Homestays',
+    icon: 'cottage',
+    description: 'Local homes & family stays',
+    responseTime: 'Instant',
     startingPrice: 'From ₹599'
   },
   {
-    id: 'welder',
-    name: 'Welder',
-    icon: 'construction',
-    description: 'Gates, grills, fabrication',
-    responseTime: '~5 hr response',
+    id: 'hourly',
+    name: 'Hourly Stay',
+    icon: 'schedule',
+    description: 'Book rooms for a few hours',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹299'
+  },
+  {
+    id: 'overnight',
+    name: 'Overnight',
+    icon: 'night_shelter',
+    description: 'One-night accommodation',
+    responseTime: 'Instant',
     startingPrice: 'From ₹499'
   },
   {
-    id: 'cooking',
-    name: 'Cooking',
-    icon: 'restaurant',
-    description: 'Catering, home chef, events',
-    responseTime: '~4 hr response',
+    id: 'business',
+    name: 'Business Stay',
+    icon: 'business_center',
+    description: 'Work trips & conferences',
+    responseTime: 'Instant',
     startingPrice: 'From ₹799'
   },
+  {
+    id: 'family',
+    name: 'Family Rooms',
+    icon: 'family_restroom',
+    description: 'Spacious family accommodation',
+    responseTime: 'Instant',
+    startingPrice: 'From ₹1,199'
+  }
 ];

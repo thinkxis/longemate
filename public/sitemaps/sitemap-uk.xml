@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://frycold.com/v1/secure/interface.xsl?site=frycold.com"?>
+<urlset 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url><loc>https://lodgemate.frycold.com/london</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/sydney</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/melbourne</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/toronto</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/montreal</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/birmingham-uk</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/brisbane</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/perth</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/calgary</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/ottawa</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/edmonton</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/glasgow</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/leeds</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/adelaide</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/auckland</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/winnipeg</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/sheffield</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/manchester</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/quebec-city</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/gold-coast</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/hamilton-canada</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/liverpool</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/newcastle-uk</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/canberra</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/kitchener</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/wellington</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/newcastle-au</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/bristol</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/london-canada</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/christchurch</loc><priority>0.7</priority></url>
+ 
+</urlset>

@@ -21,7 +21,7 @@ import { MatIconModule } from '@angular/material/icon';
         <div class="fee-box">
           <div class="fee-row">
             <span>Booking fee (non-refundable)</span>
-            <span class="fee-amount">₹210</span>
+            <span class="fee-amount">₹99</span>
           </div>
           <p class="fee-note">
             This reserves your slot. Your worker negotiates the job price directly with you.
@@ -38,7 +38,7 @@ import { MatIconModule } from '@angular/material/icon';
 
       <div class="footer">
         <button class="btn-primary" (click)="proceed()">
-          Confirm &amp; Pay ₹210
+          Confirm &amp; Pay ₹99
         </button>
         <button class="btn-secondary" (click)="router.navigate(['/wizard'])">Edit details</button>
       </div>

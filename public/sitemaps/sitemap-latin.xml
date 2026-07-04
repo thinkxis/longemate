@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://frycold.com/v1/secure/interface.xsl?site=frycold.com"?>
+<urlset 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+  <url><loc>https://lodgemate.frycold.com/sao-paulo</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/mexico-city</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/buenos-aires</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/rio-de-janeiro</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/bogota</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/lima</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/santiago</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/caracas</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/belo-horizonte</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/guadalajara</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/brasilia</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/monterrey</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/salvador</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/fortaleza</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/medellin</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/recife</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/porto-alegre</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/quito</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/puebla</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/curitiba</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/guayaquil</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/tijuana</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/cali</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/manaus</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/leon</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/santo-domingo</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/asuncion</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/montevideo</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/la-paz</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/panama-city</loc><priority>0.7</priority></url>
+ 
+
+</urlset>

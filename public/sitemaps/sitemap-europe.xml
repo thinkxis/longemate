@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://frycold.com/v1/secure/interface.xsl?site=frycold.com"?>
+<urlset 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+  <url><loc>https://lodgemate.frycold.com/moscow</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/istanbul</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/london</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/saint-petersburg</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/berlin</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/madrid</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/kyiv</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/rome</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/paris</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/minsk</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/vienna</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/bucharest</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/budapest</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/warsaw</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/barcelona</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/munich</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/milan</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/prague</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/sofia</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/brussels</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/birmingham</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/cologne</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/naples</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/nizhny-novgorod</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/turin</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/marseille</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/valencia</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/krakow</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/amsterdam</loc><priority>0.7</priority></url>
+  <url><loc>https://lodgemate.frycold.com/hamburg</loc><priority>0.7</priority></url>
+ 
+
+</urlset>

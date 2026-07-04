@@ -30,7 +30,7 @@ import { MatIconModule } from '@angular/material/icon';
       background: #fff;
       border: 1px solid #E8EAED;
       border-radius: 16px;
-      padding: 16px 14px 14px;
+      padding: 16px 12px 14px 18px;
       cursor: pointer;
       transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s;
       width: 100%; box-sizing: border-box;
@@ -40,12 +40,13 @@ import { MatIconModule } from '@angular/material/icon';
     .card:focus-visible { outline: 3px solid #1A73E8; outline-offset: 2px; }
     .icon-wrap {
       width: 44px; height: 44px; border-radius: 12px;
-      background: #E8F0FE;
+      background: #E8F0FE; color: #1A73E8;
       display: flex; align-items: center; justify-content: center;
       margin-bottom: 12px; font-size: 22px;
     }
     .name  { font-size: 15px; font-weight: 600; color: #202124; margin-bottom: 4px; }
-    .desc  { font-size: 12px; color: #5F6368; margin-bottom: 10px; line-height: 1.4; flex: 1; }
+    .desc  { height: 36px; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+      font-size: 12px; color: #5F6368; margin-bottom: 8px; line-height: 18px; }
     .meta  { display: flex; justify-content: space-between; align-items: center; }
     .time  { font-size: 11px; color: #80868B; }
     .price { font-size: 12px; color: #1A73E8; font-weight: 600; }

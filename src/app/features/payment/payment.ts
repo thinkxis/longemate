@@ -21,7 +21,7 @@ declare var Razorpay: any;  // loaded via script tag in index.html
 
       <div class="content">
         <div class="amount-card">
-          <div class="amount">₹210</div>
+          <div class="amount">₹99</div>
           <div class="amount-sub">One-time booking fee</div>
           <div class="amount-usd">Non-refundable</div>
         </div>
@@ -46,7 +46,7 @@ declare var Razorpay: any;  // loaded via script tag in index.html
           @if (loading()) {
             <span class="spinner"></span> Processing…
           } @else {
-            🔒 Pay ₹210 with Razorpay
+            🔒 Pay ₹99 with Razorpay
           }
         </button>
         <p class="secure-note">Secured by Razorpay · UPI · Cards · Net Banking</p>
@@ -127,9 +127,9 @@ export class PaymentComponent implements OnInit {
   private openRazorpay(rzpOrderId: string, internalOrderId: string) {
     const options = {
       key: 'rzp_live_RnHINLRtRYB6PV',   // replace with env var
-      amount: 21000,  
+      amount: 9900,  
       currency: 'INR',
-      name: 'DoorCall',
+      name: 'lodgemate',
       description: `${this.store.draft().categoryName} booking fee`,
       order_id: rzpOrderId,
       prefill: {

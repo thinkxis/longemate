@@ -27,7 +27,7 @@ import { BookingStore } from '../../stores/booking.store';
 
         <div class="info-card">
           <div class="info-row"><span class="label">Service</span><span>{{ categoryName }}</span></div>
-          <div class="info-row"><span class="label">Booking fee paid</span><span class="green">₹90</span></div>
+          <div class="info-row"><span class="label">Booking fee paid</span><span class="green">₹99</span></div>
           @if (orderId) {
             <div class="info-row"><span class="label">Reference</span><span class="mono">{{ orderId }}</span></div>
           }

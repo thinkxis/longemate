@@ -17,7 +17,7 @@ export interface OrderDraft {
 export interface OrderResponse {
   orderId:       string;
   razorpayOrderId: string;
-  amount:        number;  // paise (₹90)
+  amount:        number;  // paise (₹99)
   currency:      string;  // 'INR'
 }
  

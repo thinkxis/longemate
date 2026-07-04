@@ -5,11 +5,10 @@ import { catchError, timeout, retry, switchMap } from 'rxjs/operators';
 import { OrderDraft, OrderResponse } from '../../models/order.model';
 import { IndexedDbService } from './indexed-db.service';
 import { NetworkService } from './network.service';
+import { environment } from '../../../environments/environment';
+ 
 
-// const production = true;  
-const production = false; 
-
-const BASE = production ? '/api' : 'http://localhost:3000' + '/api';
+const BASE = environment.server + '/api';
 
 @Injectable({ providedIn: 'root' })
 export class ApiService {

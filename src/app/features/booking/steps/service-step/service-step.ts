@@ -53,7 +53,12 @@ import { BookingStore } from '../../../../stores/booking.store';
 })
 export class ServiceStepComponent {
   store = inject(BookingStore);
-  quickOptions = ['Repair', 'Installation', 'Maintenance', 'Deep clean', 'Emergency'];
+  quickOptions = [
+  'Instant Book',
+  'AC Room',
+  'Non-AC',
+  'Couple Friendly',
+  'Free Wi-Fi'];
 
   isActive(opt: string) { return this.store.draft().description.includes(opt); }
   toggle(opt: string) {

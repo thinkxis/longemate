@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LodgeMate</string>
+
+  <string name="frycold">Powered by Frycold</string>
+  <string name="loading_text">Getting things ready…</string>
+  <string name="no_internet_subtitle">No internet connection</string>
+  <string name="no_internet_title">You\'re Offline</string>
+  <string name="no_internet_message">Please check Wi-Fi or mobile data.</string>
+  <string name="retry_button">Try Again</string>
+</resources>

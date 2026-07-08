@@ -21,7 +21,7 @@ RouterModule, MatIconModule
     .splash {
       min-height: 100vh; display: flex; flex-direction: column;
       align-items: center; justify-content: center;
-      background: #CD3ACE; gap: 16px;
+      background: #686DF4; gap: 16px;
     }
     .logo { display: flex; align-items: center; gap: 12px; margin-bottom: 16px;
     img { height: 169px; vertical-align: middle; background: #000; padding: 0 16px; border-radius: 4px; }
